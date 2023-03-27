@@ -1,2 +1,2 @@
 # Web-crawler-practice1
-Business center real time data web crawler practicing.
+Using selenium package API to collect Business center real time data.
